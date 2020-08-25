@@ -28,7 +28,7 @@
     "reload": "~1.1.7",
     "request": "~2.88.2",
     "serialize-javascript": "~1.9.1",
-    "vue-server-renderer": "~2.1.10"
+    "vue-server-renderer": "~2.6.12"
   },
   "devDependencies": {
     "axios": "^0.20.0",
