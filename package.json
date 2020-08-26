@@ -45,7 +45,7 @@
     "js-object-pretty-print": "~0.3.0",
     "node-sass": "~4.14.1",
     "open": "~7.2.0",
-    "sass-loader": "~4.1.1",
+    "sass-loader": "~10.0.1",
     "style-loader": "~0.13.1",
     "uglify-js": "~3.10.2",
     "vue": "~2.6.12",
