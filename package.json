@@ -44,7 +44,7 @@
     "file-loader": "~6.2.0",
     "js-object-pretty-print": "~0.3.0",
     "node-sass": "~5.0.0",
-    "open": "~7.4.0",
+    "open": "~7.4.1",
     "sass-loader": "~11.0.1",
     "style-loader": "~2.0.0",
     "uglify-js": "~3.12.8",
