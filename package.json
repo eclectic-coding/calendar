@@ -47,7 +47,7 @@
     "open": "~8.0.4",
     "sass-loader": "~11.0.1",
     "style-loader": "~2.0.0",
-    "uglify-js": "~3.13.2",
+    "uglify-js": "~3.13.3",
     "vue": "~2.6.12",
     "vue-loader": "~15.9.6",
     "vue-resource": "~1.5.2",
