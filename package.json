@@ -15,7 +15,7 @@
     "webpack-config-output": "rimraf tmp && mkdir tmp && cross-env NODE_ENV=production node ./scripts/webpack-config-output.js && cross-env NODE_ENV=development node ./scripts/webpack-config-output.js"
   },
   "engines": {
-    "node": ">=5.10"
+    "node": ">=v14.17.0"
   },
   "dependencies": {
     "body-parser": "~1.19.0",
